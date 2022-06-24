@@ -1,0 +1,26 @@
+Gomoku is a round based board game played by two
+players on a 15x15 Go borad.
+
+
+1. The first player starts by placing
+two black and one white stone.
+
+2. The second player then selects
+one of the three following options:
+
+	- play as black,
+
+	- play as white and place
+	  another white stone,
+
+	- or place two more stones,
+	  one white and one black,
+	  and let the first player choose the color.
+
+
+
+Then, each player takes a turn and places their
+stone.
+
+The first player to have placed five stones in a
+row wins the game.
